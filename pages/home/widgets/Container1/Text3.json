@@ -26,7 +26,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Let up setup your accountso you can make awesome application!",
+    "text": "Let us setup your accountso you can make awesome application!",
     "key": "lijiqodg7i",
     "isDeprecated": false,
     "rightColumn": 53,
