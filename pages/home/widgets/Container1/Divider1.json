@@ -33,5 +33,7 @@
     "isLoading": false,
     "mobileTopRow": 39,
     "responsiveBehavior": "fill",
-    "mobileLeftColumn": 15
+    "originalTopRow": 6,
+    "mobileLeftColumn": 15,
+    "originalBottomRow": 10
 }
