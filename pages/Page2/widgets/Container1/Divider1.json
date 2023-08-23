@@ -5,8 +5,8 @@
     "displayName": "Divider",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.3b7d47d7bd70da418a827287042cbb7f.svg",
     "searchTags": ["line"],
-    "topRow": 24,
-    "bottomRow": 28,
+    "topRow": 25,
+    "bottomRow": 29,
     "parentRowSpace": 10,
     "type": "DIVIDER_WIDGET",
     "capType": "nc",
@@ -33,5 +33,7 @@
     "isLoading": false,
     "mobileTopRow": 24,
     "responsiveBehavior": "fill",
-    "mobileLeftColumn": 16
+    "originalTopRow": 26,
+    "mobileLeftColumn": 16,
+    "originalBottomRow": 30
 }
