@@ -22,7 +22,7 @@
     "type": "MOBILE"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "MOBILE"
   },
   "unpublishedCustomJSLibs": [
     {
