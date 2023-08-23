@@ -19,7 +19,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 6.21044921875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 1,
+    "leftColumn": 8,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -29,7 +29,7 @@
     "text": "Let up setup your accountso you can make awesome application!",
     "key": "lijiqodg7i",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 53,
     "textAlign": "LEFT",
     "dynamicHeight": "FIXED",
     "widgetId": "tugxlwtse1",
@@ -47,9 +47,11 @@
     "isLoading": false,
     "mobileTopRow": 30,
     "responsiveBehavior": "fill",
+    "originalTopRow": 24,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 11,
     "maxDynamicHeight": 9000,
+    "originalBottomRow": 32,
     "fontSize": "1rem",
     "minDynamicHeight": 4
 }
