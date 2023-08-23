@@ -13,8 +13,9 @@ createHash: (password)=>{
 		const email = email_su.text;
 		const password = password_su.text;	
 		const pHash = this.createHash(password);
+	 	storeValue("email",email)
 		return signup.run({email,pHash})
-	 	 storeValue("email",email)
+	 	 
 		.then(() => showAlert('Account is created!', "success"))
 		.then(() => storeValue('token',this.createToken(email)))
 		.then(() => navigateTo('home'))
