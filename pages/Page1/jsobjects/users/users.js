@@ -7,6 +7,7 @@ export default {
 		const address = Form1.data.address;
 		
 		return user.run({fullname,email,phone,address})
+	    
 		.then(()=> navigateTo('Page2'))
 		
 	}
