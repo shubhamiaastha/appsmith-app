@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 49,
     "widgetName": "Button1",
-    "onClick": "{{users.user()}}",
+    "onClick": "{{users.user();\nshowAlert(appsmith.store.fullname + ' Successfully completed!', 'success');}}",
     "buttonColor": "#f4a143",
     "dynamicPropertyPathList": [],
     "displayName": "Button",
