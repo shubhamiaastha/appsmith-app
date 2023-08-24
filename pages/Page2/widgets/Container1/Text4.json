@@ -31,7 +31,7 @@
     "text": "hyy ! {{appsmith.store.fullname}}",
     "key": "q4cgvrm344",
     "isDeprecated": false,
-    "rightColumn": 61,
+    "rightColumn": 25,
     "textAlign": "LEFT",
     "dynamicHeight": "FIXED",
     "widgetId": "wimb26ov87",

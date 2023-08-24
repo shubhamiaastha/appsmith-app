@@ -11,8 +11,8 @@
         "parent",
         "group"
     ],
-    "topRow": 0,
-    "bottomRow": 70,
+    "topRow": 2,
+    "bottomRow": 72,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -21,7 +21,7 @@
     "animateLoading": true,
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 0,
+    "leftColumn": 12,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "boxShadow"}
@@ -31,7 +31,7 @@
         "widgetName": "Canvas1",
         "displayName": "Canvas",
         "topRow": 0,
-        "bottomRow": 740,
+        "bottomRow": 720,
         "parentRowSpace": 1,
         "type": "CANVAS_WIDGET",
         "canExtend": false,

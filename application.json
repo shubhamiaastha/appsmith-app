@@ -23,7 +23,7 @@
   "color": "#C7F3F0",
   "icon": "dog",
   "unpublishedAppLayout": {
-    "type": "MOBILE"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "MOBILE"

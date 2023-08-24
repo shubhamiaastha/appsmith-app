@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 20,
-    "bottomRow": 28,
+    "topRow": 19,
+    "bottomRow": 27,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -19,7 +19,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 6.21044921875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 8,
+    "leftColumn": 21,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"}
@@ -29,7 +29,7 @@
     "text": "Let us setup your accountso you can make awesome application!",
     "key": "lijiqodg7i",
     "isDeprecated": false,
-    "rightColumn": 53,
+    "rightColumn": 43,
     "textAlign": "LEFT",
     "dynamicHeight": "FIXED",
     "widgetId": "tugxlwtse1",

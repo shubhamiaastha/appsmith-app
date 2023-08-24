@@ -1,7 +1,7 @@
 {
     "boxShadow": "none",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.f2c34197dbcf03595098986de898928f.svg",
-    "topRow": 11,
+    "topRow": 10,
     "labelWidth": 5,
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
@@ -36,7 +36,7 @@
         "number",
         "textarea"
     ],
-    "bottomRow": 18,
+    "bottomRow": 17,
     "parentRowSpace": 10,
     "autoFocus": false,
     "hideCard": false,
@@ -47,7 +47,7 @@
     "key": "5x095azthv",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 56,
+    "rightColumn": 36,
     "widgetId": "2ylbmucho0",
     "minWidth": 450,
     "label": "Full Name",
