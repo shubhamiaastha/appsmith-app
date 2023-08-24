@@ -27,7 +27,7 @@
       "queryParameters": [
         {
           "key": "redirect_uri",
-          "value": "https://app.appsmith.com/app/signup-login/home-64e071ade4270c43af6a5b3a/edit"
+          "value": "https://app.appsmith.com/app/signup-login/home-64e071ade4270c43af6a5b3a/edit?branch=master"
         }
       ],
       "bodyFormData": [],
