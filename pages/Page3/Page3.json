@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "Page3",
     "slug": "page3",
+    "customSlug": "",
     "layouts": [
       {
         "viewMode": false,
@@ -34,7 +35,8 @@
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": true
   },
   "deleted": false,
   "gitSyncId": "64e056c987c459512d578c8f_64e738578609842f65b2a413"
