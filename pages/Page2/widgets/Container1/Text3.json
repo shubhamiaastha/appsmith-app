@@ -6,7 +6,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-    "leftColumn": 0,
+    "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -37,7 +37,7 @@
         "paragraph",
         "label"
     ],
-    "bottomRow": 13,
+    "bottomRow": 12,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 36,
