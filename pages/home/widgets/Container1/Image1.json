@@ -32,9 +32,9 @@
     "mobileTopRow": 14,
     "maxZoomLevel": 1,
     "enableDownload": false,
-    "originalTopRow": 10,
+    "originalTopRow": 4,
     "borderRadius": "1.5rem",
     "mobileLeftColumn": 21,
-    "originalBottomRow": 22,
+    "originalBottomRow": 14,
     "enableRotation": false
 }

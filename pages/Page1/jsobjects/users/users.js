@@ -5,7 +5,7 @@ export default {
 		const email = Form1.data.email ;
 		const phone = Form1.data.phone;
 		const address = Form1.data.address;
-			storeValue("fullname",fullname)
+		storeValue("fullname",fullname)
 		
 		return user.run({fullname,email,phone,address})
 	    
