@@ -15,13 +15,30 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
     }
   ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoOnly",
+      "showSignIn": false
+    }
+  },
   "color": "#C7F3F0",
-  "icon": "dog",
+  "icon": "bicycle",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
